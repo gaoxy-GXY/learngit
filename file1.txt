@@ -1,7 +1,0 @@
-Git is a version control system.
-Gir is free software.
-
-distribute version.
-2018-10-29
-add helloword!
-changed twice!
